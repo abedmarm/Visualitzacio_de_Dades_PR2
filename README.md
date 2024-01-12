@@ -1,1 +1,1 @@
-# Visualitzacio_de_Dades_PR2
+# Visualitzacio de Dades PR2
