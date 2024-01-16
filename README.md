@@ -16,16 +16,21 @@ El conjunt de dades sobre el canvi climàtic ofereix una visió global de les te
 
 
 
-<br/><br/>
-
-<img src='images/Main.png' width='500'>
+## Visualitzacions
 
 <br/><br/>
-
-<img src='images/Secondary.png' width='500'>
+## Figura principal
+<br/><br/>
+<img src='images/Main.png' width='900'>
 
 <br/><br/>
+## Segona figura
+<br/><br/>
+<img src='images/Secondary.png' width='900'>
 
-<img src='images/Tertiary.png' width='500'>
+<br/><br/>
+## Tercera figura
+<br/><br/>
+<img src='images/Tertiary.png' width='900'>
 
 <br/><br/>
