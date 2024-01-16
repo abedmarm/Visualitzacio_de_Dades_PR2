@@ -18,7 +18,7 @@ El conjunt de dades sobre el canvi climàtic ofereix una visió global de les te
 <br/><br/>
 <br/><br/>
 
-## Visualitzacions
+# Visualitzacions
 
 ## Figura principal
 <br/><br/>
